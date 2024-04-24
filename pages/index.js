@@ -78,10 +78,11 @@ export default function Home() {
         <section className="mt-10">
           <div>
             <h3 className="text-3xl font-semibold py-1 dark:text-white text-center">Skills I offer </h3>
-            <p className="text-md py-2 leading-7 text-gray-400 text-center ">
-            "I specialize in machine learning, developing and deploying models using algorithms like regression, classification, and clustering. My deep learning expertise extends to neural network architectures using TensorFlow and PyTorch, with a focus on CNNs and RNNs. I have experience in building chatbots and utilizing large language models to enhance user interactions and automate tasks efficiently. I excel in exploratory data analysis, leveraging statistical methods and visualization tools to extract actionable insights from complex datasets. Additionally, I am proficient in Python and R for data manipulation and modeling, adept at data preprocessing, and skilled in optimizing model performance through hyperparameter tuning. My knowledge also encompasses natural language processing techniques using libraries such as NLTK and spaCy for text analysis."
-              <br />I offer a wide range of services, including Data analysis and artificial intelligence.
-            </p>
+           <p className="text-md py-2 leading-7 text-gray-400 text-center ">
+  &quot;I specialize in machine learning, developing and deploying models using algorithms like regression, classification, and clustering. My deep learning expertise extends to neural network architectures using TensorFlow and PyTorch, with a focus on CNNs and RNNs. I have experience in building chatbots and utilizing large language models to enhance user interactions and automate tasks efficiently. I excel in exploratory data analysis, leveraging statistical methods and visualization tools to extract actionable insights from complex datasets. Additionally, I am proficient in Python and R for data manipulation and modeling, adept at data preprocessing, and skilled in optimizing model performance through hyperparameter tuning. My knowledge also encompasses natural language processing techniques using libraries such as NLTK and spaCy for text analysis.&quot;
+  <br />I offer a wide range of services, including Data analysis and artificial intelligence.
+</p>
+
           </div>
           <div className="lg:grid grid-cols-3 gap-10 text-center">
             <div className="shadow-lg p-5 rounded-xl my-10 dark:bg-slate-900 hover:scale-105">
